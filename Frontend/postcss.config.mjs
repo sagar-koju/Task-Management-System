@@ -1,0 +1,9 @@
+import React from 'react'
+
+const config = {
+  plugins: {
+    "@tailwindcss/postcss": {},
+  },
+}
+
+export default config
